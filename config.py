@@ -10,26 +10,5 @@ PORT = 18601  # redis port
 PASSWORD = "Bg834gZy40yXJcmWIxp8O5MimXB8gEFN"  # redis password
 
 PRIVATE_CHAT_ID = -1002030661116 # CHAT WHERE YOU WANT TO STORE VIDEOS
-COOKIE = " Netscape HTTP Cookie File "
-# http://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file!  Do not edit.
-
-www.terabox.com	FALSE	/	FALSE	0	csrfToken	XQob4kqc0hIAQgfylc5rGu-j
-.terabox.com	TRUE	/	FALSE	1708325876	browserid	pY3O2muktWi4oDyad5HqkhXoTOWnCHE9_-HBYTV2VJiap9P8BrWbWWBp5446TkEdKGs6jQCCIy0_x8WM
-www.terabox.com	FALSE	/	FALSE	1705734339	lang	en
-.terabox.com	TRUE	/	FALSE	1737702343	__bid_n	18c8b2ab35d24d48454207
-.www.terabox.com	TRUE	/	TRUE	1734677921	__stripe_mid	8974cc60-55a7-4bdd-b085-27ec350ee6d84bab09
-.www.terabox.com	TRUE	/	TRUE	1703143721	__stripe_sid	83b7f4c9-19be-498a-8d31-c55a1b577be1466c8d
-.ymg-api.terabox.com	TRUE	/	TRUE	1737702347	ab_jid	57071d5dca5e7ebab14c173f44085045696c
-.terabox.com	TRUE	/	FALSE	1737702344	_ga	GA1.1.1326506406.1703141917
-terabox.com	FALSE	/	FALSE	0	csrfToken	N4H9wEDn_uk6tSfpmTpXsZCT
-terabox.com	FALSE	/	FALSE	1705733931	lang	en
-terabox.com	FALSE	/	FALSE	1737701934	__bid_n	18c8b2ab35d24d48454207
-terabox.com	FALSE	/	FALSE	1705733934	ndut_fmt	D730BA46B2D7F25C14FBA774F7AB708195D61FCCF2F6F7F49E28D0C7608B36A5
-terabox.com	FALSE	/	FALSE	1718694332	g_state	{"i_l":0}
-.terabox.com	TRUE	/	TRUE	1734678335	ndus	YyJU_KYteHuiJrvYdoGDMo4kGjXCEoAgUzHYd8VZ
-www.terabox.com	FALSE	/	FALSE	1705734343	ndut_fmt	6A3EA5362056620BCDC6EBD6B8346F581E1D1F0E8537CD057F870D522B4E8CE4
-.ymg-api.terabox.com	TRUE	/	TRUE	1737702347	ab_bid	1d5dca5e7ebab14c173f44085045696cc373
-.terabox.com	TRUE	/	TRUE	1703149547	ab_sr	1.0.1_ZjAyYTI4NThmZmMyYjUxNTIzMTliYjRhMGUyMmYxZmRjNGMzMmVmYTNkMzlmYmU0NGNlNGVkYTA2YmRhMmYyZWNiZTgwMTYwMTZlMWNkZWZkYTFhNThjZWU2ODc3ZDMwNjQwMjVhZDM3MDRlZmNjZTI3MzMzZDcxOTk2NDNjNjlkNzliMGM1NWYwZmVmYjg0MTU0OTliYmFkYjkyNGM3NQ==
-.terabox.com	TRUE	/	FALSE	1737702353	_ga_06ZNKL8C2E	GS1.1.1703141917.1.1.1703142353.40.0.0"  # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
+COOKIE = " csrfToken=jyBGMUoVhcHWgUEI_JB2R7KG; browserid=O09w02dcaesatX09NNWaXf-jl1LrqiCc_FUCF_WA3eIF9p62kEvfIubmG4c=; lang=en; TSID=somdyGAgpd9DD9nhIZBTTsBBCLL8GMzV; __bid_n=190f9b2ea705dae2184207; _ga=GA1.1.1752485700.1722176337; 6347; _tt_enable_cookie=1;  _ga_RSNVN63CM3=GS1.1.1722176356.1.1.1722176420.58.0.0; g_state={"i_l":0}; ndus=YqokKKyteHui0C2iNTQqpVs_pOE20neNkAEVLX4p; ndut_fmt=5161081BC086D507CF5AE12C2E77FAA1C196055D73E0FAD322540D0168A7DC84; _ga_06ZNKL8C2E=GS1.1.1722176336.1.1.1722176647.40.0.0 "
 ADMINS = [7125905015]
