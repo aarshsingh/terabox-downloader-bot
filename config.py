@@ -10,7 +10,7 @@ PORT = 18601  # redis port
 PASSWORD = "Bg834gZy40yXJcmWIxp8O5MimXB8gEFN"  # redis password
 
 PRIVATE_CHAT_ID = -1002030661116 # CHAT WHERE YOU WANT TO STORE VIDEOS
-COOKIE = " Netscape HTTP Cookie File
+COOKIE = " Netscape HTTP Cookie File "
 # http://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file!  Do not edit.
 
