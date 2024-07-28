@@ -1,15 +1,15 @@
-API_ID = 28824298  # api id
-API_HASH = "8db28909cc19fe75f0fa3864ef3fee11"  # api hash
+API_ID = 9218751  # api id
+API_HASH = "82f5398437eb5474b676e83ed67e69cc"  # api hash
 
-BOT_TOKEN = "6993771942:AAGfGs6CkLVORQVVPdNfWUSUtFwUIwoadfg"  # bot token
+BOT_TOKEN = "7252267463:AAG22hvNxOCCfUjmwX9QzRB1FwN_oMnJzfk"  # bot token
 
 
 ## REDIS
-HOST = "localhost"  # redis host uri
-PORT = 6379  # redis port
-PASSWORD = ""  # redis password
+HOST = "redis-18601.c8.us-east-1-2.ec2.cloud.redislabs.com"  # redis host uri
+PORT = 18601  # redis port
+PASSWORD = "Bg834gZy40yXJcmWIxp8O5MimXB8gEFN"  # redis password
 
-PRIVATE_CHAT_ID = -1002125824009  # CHAT WHERE YOU WANT TO STORE VIDEOS
+PRIVATE_CHAT_ID = -1002030661116 # CHAT WHERE YOU WANT TO STORE VIDEOS
 COOKIE = "# Netscape HTTP Cookie File
 # http://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file!  Do not edit.
@@ -32,4 +32,4 @@ www.terabox.com	FALSE	/	FALSE	1705734343	ndut_fmt	6A3EA5362056620BCDC6EBD6B8346F
 .ymg-api.terabox.com	TRUE	/	TRUE	1737702347	ab_bid	1d5dca5e7ebab14c173f44085045696cc373
 .terabox.com	TRUE	/	TRUE	1703149547	ab_sr	1.0.1_ZjAyYTI4NThmZmMyYjUxNTIzMTliYjRhMGUyMmYxZmRjNGMzMmVmYTNkMzlmYmU0NGNlNGVkYTA2YmRhMmYyZWNiZTgwMTYwMTZlMWNkZWZkYTFhNThjZWU2ODc3ZDMwNjQwMjVhZDM3MDRlZmNjZTI3MzMzZDcxOTk2NDNjNjlkNzliMGM1NWYwZmVmYjg0MTU0OTliYmFkYjkyNGM3NQ==
 .terabox.com	TRUE	/	FALSE	1737702353	_ga_06ZNKL8C2E	GS1.1.1703141917.1.1.1703142353.40.0.0"  # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
-ADMINS = [6801198172]
+ADMINS = [7125905015]
