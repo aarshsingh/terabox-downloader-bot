@@ -1,23 +1,23 @@
-API_ID = 123456  # api id
-API_HASH = "ABC-DEF1234ghIkl-zyx57W2v1u123ew11"  # api hash
+API_ID = 9218751  # api id
+API_HASH = "82f5398437eb5474b676e83ed67e69cc"  # api hash
 
-BOT_TOKEN = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"  # bot token
+BOT_TOKEN = "7252267463:AAG22hvNxOCCfUjmwX9QzRB1FwN_oMnJzfk"  # bot token
 
 
 # REDIS
-HOST = "localhost"  # redis host uri
-PORT = 6379  # redis port
-PASSWORD = ""  # redis password
+HOST = "redis-18601.c8.us-east-1-2.ec2.cloud.redislabs.com"  # redis host uri
+PORT = 18601  # redis port
+PASSWORD = "Bg834gZy40yXJcmWIxp8O5MimXB8gEFN"  # redis password
 
-PRIVATE_CHAT_ID = -1001234567890  # CHAT WHERE YOU WANT TO STORE VIDEOS
+PRIVATE_CHAT_ID = -1002030661116  # CHAT WHERE YOU WANT TO STORE VIDEOS
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=;
 COOKIE = ""
-ADMINS = [1317173146]
+ADMINS = [7125905015]
 
 
-BOT_USERNAME = "teraboxdown_bot"
+BOT_USERNAME = "TeraCookie_bot"
 
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
-FORCE_LINK = "@RoldexVerse"
+FORCE_LINK = "@teramebox"
 
-PUBLIC_EARN_API = ""  # https://publicearn.com/api
+PUBLIC_EARN_API = "d613e6b300eb8f9a027d9eb9469a717eb985cc63"  # https://publicearn.com/api
